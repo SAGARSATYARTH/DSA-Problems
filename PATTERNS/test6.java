@@ -23,7 +23,7 @@ class test6 {
                 st--;;
             }else{
                 sp-=2;
-                st--;
+                st++;
             }
             System.out.println();
         }
